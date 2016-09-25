@@ -1,0 +1,5 @@
+test_contacts:
+    resource: "@TestContactsBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
